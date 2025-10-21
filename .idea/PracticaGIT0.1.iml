@@ -17,7 +17,16 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="junit.jupiter1" level="project" />
+    <orderEntry type="library" exported="" name="junit.jupiter1" level="project" />
     <orderEntry type="module" module-name="EjemploClase2" scope="TEST" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/PasswordChecker.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

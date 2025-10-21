@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EjemploClase2/EjemploClase2.iml" filepath="$PROJECT_DIR$/EjemploClase2/EjemploClase2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PasswordChecker/PasswordChecker.iml" filepath="$PROJECT_DIR$/PasswordChecker/PasswordChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PasswordCheck/PasswordCheck.iml" filepath="$PROJECT_DIR$/PasswordCheck/PasswordCheck.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practica1 Comandos/Practica1 Comandos.iml" filepath="$PROJECT_DIR$/Practica1 Comandos/Practica1 Comandos.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PracticaGIT0.1.iml" filepath="$PROJECT_DIR$/.idea/PracticaGIT0.1.iml" />
     </modules>
